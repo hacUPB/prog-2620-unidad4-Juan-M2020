@@ -7,7 +7,7 @@ asientos = [
 # Mostrar los asientos
 for i in range(3):          
     for j in range(4):      
-        print(asientos[i][j])
+       print(asientos[i][j])
     
 
 fila = int(input("Ingrese la fila del asiento: "))
